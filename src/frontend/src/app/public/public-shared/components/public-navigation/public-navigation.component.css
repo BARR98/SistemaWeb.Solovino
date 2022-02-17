@@ -1,0 +1,41 @@
+button {
+    width: auto;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    background-color: #227c9d;
+    color: #fef9ef;
+    margin-right: 20px;
+}
+
+mat-toolbar {
+    display: flex;
+}
+
+.logo {
+    width: 6%;
+    height: 100%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.nav-bar {
+    width: 94%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+#titulo {
+    font-size: 28px;
+}
